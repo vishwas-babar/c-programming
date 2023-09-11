@@ -16,7 +16,7 @@ int main() {
 	while(originalnum!=0)
 	{
 		originalnum/=10;
-		n+=1;
+		n++1;
 	}
 	
 	// now lets find the result
